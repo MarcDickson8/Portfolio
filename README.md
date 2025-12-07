@@ -9,3 +9,6 @@ https://github.com/MarcDickson8/bankscrape
 
 ### Sudoku Solution Validator using C and pthreads:
 https://github.com/MarcDickson8/Sudoku-Solution-Checker
+
+### Betfair And TAB Arbitrage Scraper:
+https://github.com/MarcDickson8/Betfair-And-TAB-Arbitrage-Scraper
